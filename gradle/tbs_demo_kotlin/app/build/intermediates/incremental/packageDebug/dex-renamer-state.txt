@@ -1,4 +1,0 @@
-#Mon Jun 12 23:11:28 CST 2017
-base.0=/home/squirrel/workspace/kotlin-examples/gradle/tbs_demo_kotlin/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
-renamed.0=classes.dex
-file.0=/home/squirrel/workspace/kotlin-examples/gradle/tbs_demo_kotlin/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
